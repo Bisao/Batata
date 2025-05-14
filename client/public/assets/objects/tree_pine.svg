@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-32 -64 64 80" width="64" height="80">
+  <!-- Tronco -->
+  <rect x="-3" y="-15" width="6" height="15" fill="#8B4513" />
+  
+  <!-- Copa em camadas triangulares -->
+  <polygon points="0,-60 15,-45 -15,-45" fill="#006400" stroke="#005000" stroke-width="1" />
+  <polygon points="0,-50 20,-30 -20,-30" fill="#006400" stroke="#005000" stroke-width="1" />
+  <polygon points="0,-35 25,-15 -25,-15" fill="#006400" stroke="#005000" stroke-width="1" />
+</svg>

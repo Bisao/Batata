@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-32 -32 64 64" width="64" height="64">
+  <!-- Campo de fazenda -->
+  <polygon points="0,-16 24,0 0,16 -24,0" fill="#228B22" stroke="#006400" stroke-width="1" />
+  
+  <!-- Linhas de cultivo horizontais -->
+  <line x1="-16" y1="0" x2="16" y2="0" stroke="#7CFC00" stroke-width="2" />
+  
+  <!-- Linhas de cultivo verticais -->
+  <line x1="0" y1="-12" x2="0" y2="12" stroke="#7CFC00" stroke-width="2" />
+  
+  <!-- Pequenos detalhes de plantas -->
+  <circle cx="-8" cy="-8" r="2" fill="#32CD32" />
+  <circle cx="8" cy="8" r="2" fill="#32CD32" />
+</svg>

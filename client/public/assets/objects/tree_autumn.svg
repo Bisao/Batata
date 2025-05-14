@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-32 -64 64 80" width="64" height="80">
+  <!-- Tronco -->
+  <rect x="-4" y="-20" width="8" height="20" fill="#8B4513" />
+  
+  <!-- Copa da árvore em cores de outono -->
+  <polygon points="0,-55 20,-35 -20,-35" fill="#FFA500" stroke="#FF8C00" stroke-width="1" />
+  <polygon points="0,-45 25,-20 -25,-20" fill="#FF4500" stroke="#FF8C00" stroke-width="1" />
+  <polygon points="0,-30 30,-5 -30,-5" fill="#8B0000" stroke="#FF8C00" stroke-width="1" />
+  
+  <!-- Folhas caídas -->
+  <circle cx="-20" cy="-2" r="2" fill="#FF4500" />
+  <circle cx="15" cy="0" r="2" fill="#FFA500" />
+  <circle cx="5" cy="-1" r="2" fill="#8B0000" />
+</svg>

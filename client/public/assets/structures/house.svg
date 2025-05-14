@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-32 -48 64 64" width="64" height="64">
+  <!-- Casa base -->
+  <polygon points="0,-16 24,0 0,16 -24,0" fill="#8B4513" stroke="#444" stroke-width="1" />
+  
+  <!-- Telhado -->
+  <polygon points="-24,0 0,-16 24,0 0,-40" fill="#A52A2A" stroke="#444" stroke-width="1" />
+  
+  <!-- Janela -->
+  <rect x="-8" y="-8" width="5" height="5" fill="#D2B48C" />
+</svg>
